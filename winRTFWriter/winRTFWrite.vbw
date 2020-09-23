@@ -1,0 +1,11 @@
+winRTFWriter = 44, 44, 506, 365, C
+winRTFFont = 66, 66, 528, 387, C
+winRTFFonts = 88, 88, 550, 409, C
+modRTFWriter = 22, 22, 484, 343, C
+IEnumFontSink = 22, 22, 484, 343, C
+mEnumerateFonts = 66, 66, 528, 387, C
+winRTFSystemFonts = 88, 88, 550, 409, C
+winRTFColor = 44, 44, 506, 365, C
+winRTFColors = 66, 66, 528, 387, C
+winRTFInstalledFonts = 0, 0, 0, 0, C
+modWinSHAPESGeneral = 0, 0, 0, 0, C
